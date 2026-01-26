@@ -25,3 +25,10 @@ Quando não preenche corretamente o campo CPF
 E clica no botão "Cadastrar"  
 Então o sistema deve impedir a criação da conta  
 E exibir mensagem informando que o CPF é inválido ou obrigatório
+
+## CT05 – Cadastro com e-mail inválido
+Dado que o usuário está na tela de cadastro  
+Quando informa um e-mail em formato inválido  
+E clica no botão "Cadastrar"  
+Então o sistema deve impedir a criação da conta  
+E exibir mensagem solicitando um e-mail válido
