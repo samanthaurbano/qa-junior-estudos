@@ -16,3 +16,17 @@ focados em testes manuais para nível júnior.
 
 ## Objetivo
 Desenvolver habilidades práticas para atuação como QA Júnior.
+
+
+-------------------
+
+## Bug Report – Jira
+
+Exemplo de bug registrado durante estudos de QA, com base em casos de teste manuais.
+
+- Cenário: Login
+- Ferramenta: Jira
+- Tipo: Bug
+- Descrição: Tentativa de login com senha abaixo do mínimo permitido
+
+📎 Evidência: print do bug registrado no Jira
